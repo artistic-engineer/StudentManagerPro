@@ -1,0 +1,10 @@
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Release\StudentManagerPro.csprojResolveAssemblyReference.cache
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Release\StudentManagerPro.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Release\StudentManagerPro.pdb

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Release</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AdminLogin.aspx">
+      <publishTime>01/07/2012 09:25:56</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>05/04/2016 16:52:06</publishTime>
+    </File>
+    <File Include="bin/Models.dll">
+      <publishTime>05/04/2016 16:52:05</publishTime>
+    </File>
+    <File Include="bin/StudentManagerPro.dll">
+      <publishTime>05/04/2016 16:52:06</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>12/20/2011 14:32:32</publishTime>
+    </File>
+    <File Include="ErrorPage.htm">
+      <publishTime>11/06/2012 15:45:40</publishTime>
+    </File>
+    <File Include="ExitSys.aspx">
+      <publishTime>11/06/2012 18:34:34</publishTime>
+    </File>
+    <File Include="Images/bg.png">
+      <publishTime>12/19/2011 22:27:42</publishTime>
+    </File>
+    <File Include="Images/btnLogin.png">
+      <publishTime>12/19/2011 23:26:36</publishTime>
+    </File>
+    <File Include="Images/defaultImg.png">
+      <publishTime>12/20/2011 15:04:22</publishTime>
+    </File>
+    <File Include="Images/login.png">
+      <publishTime>12/19/2011 22:27:42</publishTime>
+    </File>
+    <File Include="Images/navBar.png">
+      <publishTime>12/19/2011 22:27:42</publishTime>
+    </File>
+    <File Include="Images/Student/100000.PNG">
+      <publishTime>01/06/2012 15:08:32</publishTime>
+    </File>
+    <File Include="Images/Student/100001.PNG">
+      <publishTime>01/06/2012 15:08:32</publishTime>
+    </File>
+    <File Include="Images/Student/100002.PNG">
+      <publishTime>01/06/2012 15:08:32</publishTime>
+    </File>
+    <File Include="Images/Student/100003.PNG">
+      <publishTime>01/06/2012 15:08:32</publishTime>
+    </File>
+    <File Include="Images/Student/100004.PNG">
+      <publishTime>01/06/2012 15:08:32</publishTime>
+    </File>
+    <File Include="Images/Student/100005.PNG">
+      <publishTime>01/06/2012 15:08:32</publishTime>
+    </File>
+    <File Include="Images/Student/100006.PNG">
+      <publishTime>01/06/2012 15:08:32</publishTime>
+    </File>
+    <File Include="Images/Student/100007.PNG">
+      <publishTime>01/06/2012 15:10:30</publishTime>
+    </File>
+    <File Include="Images/Student/100008.PNG">
+      <publishTime>01/06/2012 15:08:32</publishTime>
+    </File>
+    <File Include="Images/Student/100009.PNG">
+      <publishTime>01/06/2012 15:08:32</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/calendar.js">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/config.js">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/lang/en.js">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/lang/zh-cn.js">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/lang/zh-tw.js">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/My97DatePicker.htm">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/skin/datePicker.gif">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/skin/default/datepicker.css">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/skin/default/img.gif">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/skin/WdatePicker.css">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/skin/whyGreen/bg.jpg">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/skin/whyGreen/datepicker.css">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/skin/whyGreen/img.gif">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="JS/My97DatePicker/WdatePicker.js">
+      <publishTime>11/08/2012 17:57:02</publishTime>
+    </File>
+    <File Include="MainPage.Master">
+      <publishTime>05/04/2016 15:06:58</publishTime>
+    </File>
+    <File Include="Score/ScoreManage.aspx">
+      <publishTime>11/10/2012 17:33:06</publishTime>
+    </File>
+    <File Include="Student/AddStudent.aspx">
+      <publishTime>11/08/2012 18:17:42</publishTime>
+    </File>
+    <File Include="Student/EditStudent.aspx">
+      <publishTime>11/08/2012 21:59:30</publishTime>
+    </File>
+    <File Include="Student/StudentDetail.aspx">
+      <publishTime>11/10/2012 17:46:08</publishTime>
+    </File>
+    <File Include="Student/StudentManage.aspx">
+      <publishTime>05/04/2016 16:20:39</publishTime>
+    </File>
+    <File Include="Student/UpLoadImage.aspx">
+      <publishTime>11/08/2012 20:16:16</publishTime>
+    </File>
+    <File Include="Styles/AddStudent.css">
+      <publishTime>02/05/2012 09:15:22</publishTime>
+    </File>
+    <File Include="Styles/AdminLogin.css">
+      <publishTime>12/20/2011 00:02:24</publishTime>
+    </File>
+    <File Include="Styles/Default.css">
+      <publishTime>12/20/2011 15:44:42</publishTime>
+    </File>
+    <File Include="Styles/MainPage.css">
+      <publishTime>02/02/2012 16:18:02</publishTime>
+    </File>
+    <File Include="Styles/ScoreManage.css">
+      <publishTime>12/20/2011 16:32:18</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>12/19/2011 17:59:50</publishTime>
+    </File>
+    <File Include="Styles/StudentDetail.css">
+      <publishTime>12/20/2011 16:52:32</publishTime>
+    </File>
+    <File Include="Styles/StudentManage.css">
+      <publishTime>01/07/2012 09:59:50</publishTime>
+    </File>
+    <File Include="SysAdmin/ChangePwd.aspx">
+      <publishTime>02/03/2012 16:25:02</publishTime>
+    </File>
+    <File Include="ThirdControl/CreateImage.aspx">
+      <publishTime>11/08/2012 18:14:24</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/04/2016 16:52:07</publishTime>
+    </File>
+    <File Include="Web.sitemap">
+      <publishTime>11/06/2012 17:39:30</publishTime>
+    </File>
+    <File Include="Welcome.htm">
+      <publishTime>12/19/2011 18:04:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

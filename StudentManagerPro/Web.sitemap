@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Default.aspx" title="Fancy SDMS"  description="">
+        <siteMapNode url="~/Student/StudentManage.aspx" title="Student Information Management"  description="">
+          <siteMapNode url="~/Student/AddStudent.aspx" title="Add Student"  description=""/>
+          <siteMapNode url="~/Student/EditStudent.aspx" title="Edit Student"  description=""/>
+          <siteMapNode url="~/Student/UpLoadImage.aspx" title="Upload Student Image"  description=""/>
+        </siteMapNode>
+        <siteMapNode url="~/Score/ScoreManage.aspx" title="Grade Information Management"  description="" />
+    </siteMapNode>
+</siteMap>

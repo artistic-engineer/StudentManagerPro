@@ -1,0 +1,196 @@
+C:\Documents and Settings\Administrator\桌面\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Documents and Settings\Administrator\桌面\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Documents and Settings\Administrator\桌面\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+C:\Documents and Settings\Administrator\桌面\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+C:\Documents and Settings\Administrator\桌面\学员管理系统\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Documents and Settings\Administrator\桌面\学员管理系统\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Documents and Settings\Administrator\桌面\学员管理系统\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\学员管理系统\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+C:\Documents and Settings\Administrator\桌面\学员管理系统\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\阶段项目（一）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\阶段项目（一）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\阶段项目（一）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\阶段项目（一）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\阶段项目（一）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\阶段项目（一）：学员管理系统前台设计\03_项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\阶段项目（一）：学员管理系统前台设计\03_项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\阶段项目（一）：学员管理系统前台设计\03_项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\阶段项目（一）：学员管理系统前台设计\03_项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\阶段项目（一）：学员管理系统前台设计\03_项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\项目阶段（一）完成的页面\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\项目阶段（一）完成的页面\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\项目阶段（一）完成的页面\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\项目阶段（一）完成的页面\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\项目阶段（一）完成的页面\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\教学同步源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\教学同步源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\教学同步源码\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\教学同步源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\教学同步源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\教学同步源码\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\教学同步源码\StudentManagerPro\StudentManagerPro\bin\Models.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\教学同步源码\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第5讲：学员管理系统项目框架设计\示例代码\教学同步源码\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\bin\Models.dll
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+H:\IT-Bachelor（下）\IT-Bachelor（下）课程[1]【ASP.NET基础】：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第6讲：学员管理系统功能实现\示例代码\项目完整源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+H:\IT-Bachelor（下）\IT-Bachelor（下）课程[1]【ASP.NET基础】：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第6讲：学员管理系统功能实现\示例代码\项目完整源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+H:\IT-Bachelor（下）\IT-Bachelor（下）课程[1]【ASP.NET基础】：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第6讲：学员管理系统功能实现\示例代码\项目完整源码\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+H:\IT-Bachelor（下）\IT-Bachelor（下）课程[1]【ASP.NET基础】：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第6讲：学员管理系统功能实现\示例代码\项目完整源码\StudentManagerPro\StudentManagerPro\bin\Models.dll
+H:\IT-Bachelor（下）\IT-Bachelor（下）课程[1]【ASP.NET基础】：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第6讲：学员管理系统功能实现\示例代码\项目完整源码\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+H:\IT-Bachelor（下）\IT-Bachelor（下）课程[1]【ASP.NET基础】：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第6讲：学员管理系统功能实现\示例代码\项目完整源码\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+H:\IT-Bachelor（下）\IT-Bachelor（下）课程[1]【ASP.NET基础】：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第6讲：学员管理系统功能实现\示例代码\项目完整源码\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+H:\IT-Bachelor（下）\IT-Bachelor（下）课程[1]【ASP.NET基础】：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第6讲：学员管理系统功能实现\示例代码\项目完整源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+H:\IT-Bachelor（下）\IT-Bachelor（下）课程[1]【ASP.NET基础】：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\第6讲：学员管理系统功能实现\示例代码\项目完整源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\已分层\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\已分层\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\已分层\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\已分层\StudentManagerPro\StudentManagerPro\bin\Models.dll
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\已分层\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\已分层\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\已分层\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\已分层\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\已分层\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.dll
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+D:\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+D:\2_课程产品（PPT）\NET课程\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+D:\2_课程产品（PPT）\NET课程\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+D:\2_课程产品（PPT）\NET课程\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+D:\2_课程产品（PPT）\NET课程\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.dll
+D:\2_课程产品（PPT）\NET课程\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+D:\2_课程产品（PPT）\NET课程\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+D:\2_课程产品（PPT）\NET课程\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+D:\2_课程产品（PPT）\NET课程\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+D:\2_课程产品（PPT）\NET课程\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+J:\[2]_课件备份\【1】NET\备份\2014\1-全部课件\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+J:\[2]_课件备份\【1】NET\备份\2014\1-全部课件\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+J:\[2]_课件备份\【1】NET\备份\2014\1-全部课件\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+J:\[2]_课件备份\【1】NET\备份\2014\1-全部课件\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+J:\[2]_课件备份\【1】NET\备份\2014\1-全部课件\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.dll
+J:\[2]_课件备份\【1】NET\备份\2014\1-全部课件\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+J:\[2]_课件备份\【1】NET\备份\2014\1-全部课件\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+J:\[2]_课件备份\【1】NET\备份\2014\1-全部课件\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+J:\[2]_课件备份\【1】NET\备份\2014\1-全部课件\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+J:\[2]_课件备份\【1】NET\备份\2014\1-全部课件\03_高级课程（2014）\课程[4]【ASP.NET基础】_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[18]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统【已更新】\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统【已更新】\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统【已更新】\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统【已更新】\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统【已更新】\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统【已更新】\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统【已更新】\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统【已更新】\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统【已更新】\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统【已更新】\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【授课课件】\课程[16]【高级后台】：使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.dll
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+C:\Users\user\Desktop\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+C:\Users\user\Desktop\项目源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+C:\Users\user\Desktop\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+C:\Users\user\Desktop\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Users\user\Desktop\项目源码\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目框架\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目框架\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目框架\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目框架\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目框架\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+D:\综合文档\VIP课程录制\视频录制PPT\项目案例：学员管理系统（web版）\项目框架\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\StudentManagerPro\bin\Models.dll
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+C:\Users\newze\Desktop\Sunny_File\Project\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+C:\Users\newze\Desktop\Sunny_File\Project\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Users\newze\Desktop\Sunny_File\Project\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Users\newze\Desktop\Sunny_File\Project\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+C:\Users\newze\Desktop\Sunny_File\Project\StudentManagerPro\StudentManagerPro\bin\Models.dll
+C:\Users\newze\Desktop\Sunny_File\Project\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+C:\Users\newze\Desktop\Sunny_File\Project\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+C:\Users\newze\Desktop\Sunny_File\Project\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+C:\Users\newze\Desktop\Sunny_File\Project\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+C:\Users\newze\Desktop\Sunny_File\Project\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+C:\Users\newze\Desktop\Sunny_File\Project\Github_repository\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+C:\Users\newze\Desktop\Sunny_File\Project\Github_repository\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Users\newze\Desktop\Sunny_File\Project\Github_repository\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Users\newze\Desktop\Sunny_File\Project\Github_repository\StudentManagerPro\StudentManagerPro\bin\DAL.dll
+C:\Users\newze\Desktop\Sunny_File\Project\Github_repository\StudentManagerPro\StudentManagerPro\bin\Models.dll
+C:\Users\newze\Desktop\Sunny_File\Project\Github_repository\StudentManagerPro\StudentManagerPro\bin\DAL.pdb
+C:\Users\newze\Desktop\Sunny_File\Project\Github_repository\StudentManagerPro\StudentManagerPro\bin\Models.pdb
+C:\Users\newze\Desktop\Sunny_File\Project\Github_repository\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+C:\Users\newze\Desktop\Sunny_File\Project\Github_repository\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+C:\Users\newze\Desktop\Sunny_File\Project\Github_repository\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb

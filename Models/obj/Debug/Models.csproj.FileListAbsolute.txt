@@ -1,0 +1,5 @@
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\Models\bin\Debug\Models.dll
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\Models\bin\Debug\Models.pdb
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\Models\obj\Debug\Models.dll
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\Models\obj\Debug\Models.pdb
+C:\Users\newze\Documents\Visual Studio 2015\Projects\StudentManagerPro\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
